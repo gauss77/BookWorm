@@ -1,0 +1,63 @@
+*, #searchButton {
+	color: white;
+}
+
+.img-bookworm {
+	width: 200px;
+	height: 150px;
+	margin: 15px;
+}
+
+.search-field {
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 20px;
+}
+
+.search-field input {
+	border-radius: 2px;
+	width: 100%;
+}
+
+.content {
+	background-image: url("background.jpg");
+	background-repeat: round;
+}
+
+#searchButton {
+	background-color: #3F250B;
+	border-radius: 2px;
+	margin-left: 90%;
+	margin-bottom: 400px;
+}
+
+.select-choices {
+}
+
+h1 {
+	opacity: .7;
+	font-weight: lighter;
+	margin-left: 10%;
+}
+
+.input-1 {
+	margin-left: 10%;
+	margin-right: 407px;
+}
+
+.input-3 {
+	margin-left: 10%;
+	margin-right: 400px;
+}
+
+
+#error-message {
+	text-align: center;
+	color: red;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+input, select, textarea {
+	color: black;
+}
