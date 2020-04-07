@@ -17,6 +17,10 @@ Clicking the book image again redirects back to the results page.
 <p align="center"><img src="screenshots/product.JPG" /></p>
 The user can also perform a new search using the search bar which is re-placed at the top of the page.
 
+## Error handling
+Incase of invalid queries or no search results, the error message notifies the user of it.
+<p align="center"><img src="screenshots/invalid-search.JPG" /></p>
+
 ### To run the project in Eclipse
 You will require javax.servlet.jar, and Tomcat 9.0 or +
 
