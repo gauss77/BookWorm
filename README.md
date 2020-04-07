@@ -1,6 +1,16 @@
 # BookWorm, a book search app for avid readers!
 This is a simple demo using the Google Books API implementing Search on Author / Publisher / Book Name / ISBN Code.
 
+## Wireframes
+## Home Page
+<p align="center"><img src="screenshots/wireframe-home.JPG" /></p>
+
+## Search Results Page
+<p align="center"><img src="screenshots/wireframe-results.JPG" /></p>
+
+## Book Details Page
+<p align="center"><img src="screenshots/wireframe-product.JPG" /></p>
+
 ## Home Page
 The user can search the catalog using the above search criteria. If no option is selected, the search is performed on all 4 categories by default. Clicking the bookworm image from any other page redirects to the home page 
 <p align="center"><img src="screenshots/home.JPG" /></p>
