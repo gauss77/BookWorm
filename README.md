@@ -1,4 +1,4 @@
-# BookWebsite: BookWorm, a search app for avid readers!
+#BookWorm, a search app for avid readers!
 This is a simple demo using the Google Books API implementing Search on Author / Publisher / Book Name / ISBN Code.
 
 ## Home Page
